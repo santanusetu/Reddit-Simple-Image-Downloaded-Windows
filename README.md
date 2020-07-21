@@ -1,1 +1,1 @@
-# Reddit-Simple-Image-Downloaded-Windows
+# Reddit-Simple-Image-Downloader
